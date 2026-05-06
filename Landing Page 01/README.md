@@ -7,7 +7,7 @@ This project focuses on clean UI design, layout structuring, spacing systems, an
 
 ## 📸 Preview
 
-![Landing Page Preview](./Landing%20Page%2001/img/final%20landing%20page.png)
+![Landing Page Preview](./img/final%20landing%20page.png)
 
 ---
 
